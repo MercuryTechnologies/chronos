@@ -1,5 +1,4 @@
 {-# LANGUAGE CPP #-}
-{-# LANGUAGE JavaScriptFFI #-}
 
 {-# OPTIONS_HADDOCK hide #-} -- for doctests
 
